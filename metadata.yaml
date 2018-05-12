@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '40114'
     url: http://www.gutenberg.org/2009/agents/40114
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39619#Trotzkopf-als-Grossmutter
 gutenberg_bookshelf: DE Kinderbuch
 gutenberg_issued: '2012-05-05'
 gutenberg_type: Text
